@@ -21,3 +21,10 @@
   <li> Must manually call SC_StartService, SC_StopService, or SC_StatusService afrer running 'source sc3.sh'. </li>
   </ul>
 </p>
+
+<hr>
+<p>
+  :white_check_mark: This code was verified as ShellCheck compliant as of 06/19/2026. <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code added after this date may or may not remain in compliance.
+</p>
+<hr>
