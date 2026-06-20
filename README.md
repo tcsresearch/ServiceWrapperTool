@@ -17,7 +17,7 @@
 <p>
   sc3.sh currently has bugs.  
   <ul>
-  <li> - Currently locked to httpd (need to fix $SERVICE to map to $2) </li>
-  <li> - Must manually call SC_StartService, SC_StopService, or SC_StatusService afrer running 'source sc3.sh'. </li>
+  <li> Currently locked to httpd (need to fix $SERVICE to map to $2) </li>
+  <li> Must manually call SC_StartService, SC_StopService, or SC_StatusService afrer running 'source sc3.sh'. </li>
   </ul>
 </p>
