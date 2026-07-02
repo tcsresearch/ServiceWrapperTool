@@ -14,6 +14,15 @@
 > Code is not considered stable yet, and still lacks most features.
 
 <hr>
+
+<p>
+  sc4.sh currently has bugs.  
+  <ul>
+  <li> SplitConfig Enabled. </li>
+  <li> Same bugs as sc3.sh. </li>
+  </ul>
+</p>
+
 <p>
   sc3.sh currently has bugs.  
   <ul>
