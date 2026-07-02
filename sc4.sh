@@ -1,3 +1,5 @@
+#!/bin/env bash
+
 # Colors for Cecho-like output
 CONFIG_DIR="$(pwd)"
 COLORS_FILE="SanityChecker_Colors.conf"
