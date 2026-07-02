@@ -2,7 +2,7 @@
 
 # This script serves as a wrapper around systemctl with Cecho-enabled responses to services starting/stopping, etc.
 #
-# TODO: Make interactive?  Example: checkinghh if a service is started; ask to start it if not running.
+# TODO: Make interactive?  Example: checking if a service is started; ask to start it if not running.
 #
 
 
